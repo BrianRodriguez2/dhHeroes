@@ -1,5 +1,5 @@
 {
-  "name": "myapp",
+  "name": "dh-heroes",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,6 +9,7 @@
   "author": "Brian",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.18.1",
+    "node": "^16.17.0"
   }
 }
